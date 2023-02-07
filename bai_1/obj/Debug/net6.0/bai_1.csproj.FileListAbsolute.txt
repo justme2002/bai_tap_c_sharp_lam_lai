@@ -1,0 +1,15 @@
+D:\internship\training\c#\bt_lam_lai\bai_1\bin\Debug\net6.0\bai_1.exe
+D:\internship\training\c#\bt_lam_lai\bai_1\bin\Debug\net6.0\bai_1.deps.json
+D:\internship\training\c#\bt_lam_lai\bai_1\bin\Debug\net6.0\bai_1.runtimeconfig.json
+D:\internship\training\c#\bt_lam_lai\bai_1\bin\Debug\net6.0\bai_1.dll
+D:\internship\training\c#\bt_lam_lai\bai_1\bin\Debug\net6.0\bai_1.pdb
+D:\internship\training\c#\bt_lam_lai\bai_1\obj\Debug\net6.0\bai_1.csproj.AssemblyReference.cache
+D:\internship\training\c#\bt_lam_lai\bai_1\obj\Debug\net6.0\bai_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship\training\c#\bt_lam_lai\bai_1\obj\Debug\net6.0\bai_1.AssemblyInfoInputs.cache
+D:\internship\training\c#\bt_lam_lai\bai_1\obj\Debug\net6.0\bai_1.AssemblyInfo.cs
+D:\internship\training\c#\bt_lam_lai\bai_1\obj\Debug\net6.0\bai_1.csproj.CoreCompileInputs.cache
+D:\internship\training\c#\bt_lam_lai\bai_1\obj\Debug\net6.0\bai_1.dll
+D:\internship\training\c#\bt_lam_lai\bai_1\obj\Debug\net6.0\refint\bai_1.dll
+D:\internship\training\c#\bt_lam_lai\bai_1\obj\Debug\net6.0\bai_1.pdb
+D:\internship\training\c#\bt_lam_lai\bai_1\obj\Debug\net6.0\bai_1.genruntimeconfig.cache
+D:\internship\training\c#\bt_lam_lai\bai_1\obj\Debug\net6.0\ref\bai_1.dll
